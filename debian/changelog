@@ -1,0 +1,5 @@
+python-flask-session (100:0.8.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pallets-eco/flask-session/releases/tag/0.8.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 24 May 2025 18:53:46 +0800

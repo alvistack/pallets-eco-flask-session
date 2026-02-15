@@ -1,0 +1,5 @@
+python-flask-session source: file-without-copyright-information
+python-flask-session source: no-debian-changes
+python-flask-session source: source-contains-prebuilt-windows-binary
+python-flask-session source: source-is-missing
+python-flask-session source: source-package-encodes-python-version
